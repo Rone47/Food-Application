@@ -25,5 +25,4 @@ export const cuisineList = [
   "Tacos",
   "Tapas",
   "Vegan",
-  "Platar"
 ];
